@@ -1,5 +1,5 @@
 import time
-import Reprint
+import reprint
 
 
 def print_processing_time(function):
